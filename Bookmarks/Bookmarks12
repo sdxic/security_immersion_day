@@ -1,0 +1,158 @@
+{
+   "checksum": "422c9a8aec2873ae552e7b953701e62e",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13291362459806396",
+               "guid": "d2f6389b-291c-49f7-ae31-2d3cc76e0097",
+               "id": "21",
+               "name": "Cisco.com Login Page",
+               "type": "url",
+               "url": "https://cloudsso.cisco.com/as/authorization.oauth2?response_type=code&scope=openid+profile+email&client_id=dcloud-sso-prod&redirect_uri=https%3A%2F%2Fdcloud2-rtp.cisco.com%2Fevent%2F397409%2Faccess&state=qibKvkZ4WjokaTIJ7dG4GXI8G4D4xbU4"
+            } ],
+            "date_added": "13291362062530081",
+            "date_modified": "13291362546810840",
+            "guid": "500e2bd1-0a26-4f77-80c4-d71776a5076d",
+            "id": "8",
+            "name": "Lab2 - Cisco Duo",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13284132900000000",
+               "guid": "0b7cd311-3cb0-473f-9934-8fe3a2839391",
+               "id": "10",
+               "name": "Video EDR? EPP? Both?!? See how to explain SentinelOne in just 2 minutes - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=Fzji8wNJEc4"
+            }, {
+               "date_added": "13284132951000000",
+               "guid": "33b81fbb-7f30-441e-a1b6-76539f61fe84",
+               "id": "11",
+               "name": "SentinelOne - Management Console",
+               "type": "url",
+               "url": "https://usea1-300-nfr.sentinelone.net/login"
+            } ],
+            "date_added": "13291362062530430",
+            "date_modified": "0",
+            "guid": "98c21849-149c-43d3-8dad-43a7ba554cab",
+            "id": "9",
+            "name": "Lab3 - SentinelOne",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13284119809000000",
+               "guid": "67903bb9-5c8b-420a-a11e-b347485e68bd",
+               "id": "13",
+               "name": "Purple Knight Intro with Darren Mar-Elia, VP of Products at Semperis - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=tBuMsxbjHag"
+            }, {
+               "date_added": "13284132844000000",
+               "guid": "2feab11e-115f-4f65-9dae-6ad97c7793c4",
+               "id": "14",
+               "name": "Automate Forest Recovery | Semperis Active Directory Forest Recovery (ADFR) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=sHLXRJv5Gfc"
+            } ],
+            "date_added": "13291362062530691",
+            "date_modified": "0",
+            "guid": "3fa21965-b9b2-4710-9c27-bf9cda781905",
+            "id": "12",
+            "name": "Lab4 - Semperis",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13284132732000000",
+               "guid": "6aabf8dc-0d81-41c3-9b13-cf6b510f2b76",
+               "id": "17",
+               "name": "Video Sirius Lab - Thycotic Ransomware Protection",
+               "type": "url",
+               "url": "https://vimeo.com/657182584/abf0556917"
+            }, {
+               "date_added": "13291364103160052",
+               "guid": "c4c49fd7-673e-4cf4-9e5b-faff1be9d6b9",
+               "id": "73",
+               "name": "[Delinea] Course Manager - Learning Console",
+               "type": "url",
+               "url": "https://delinea.skytap-portal.com/lab_access/event_participant/1289/901cfa955e26a73b15ba172a8a1d9b145ff8b32999bfda089527b9c2ce4ec2ab/learning_console"
+            } ],
+            "date_added": "13291362062530927",
+            "date_modified": "13291364160270944",
+            "guid": "f635984c-3edf-4bcb-a4fa-c90bbc19e4de",
+            "id": "15",
+            "name": "Lab5 - Delinea",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13284132794000000",
+               "guid": "b44aca3b-23f2-4624-b2a0-5a050f09adf9",
+               "id": "19",
+               "name": "Video Alert Triage enables analysts to quickly and confidently dismiss or escalate security alerts - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=NAnIPhLs9Po"
+            }, {
+               "date_added": "13291362358173453",
+               "guid": "e7259dee-a364-4aa1-b0b8-09749e9917ae",
+               "id": "20",
+               "name": "Exabeam CTF",
+               "type": "url",
+               "url": "https://ctf-0-event.exalabs.io/"
+            } ],
+            "date_added": "13291362062531413",
+            "date_modified": "13291362459806396",
+            "guid": "2b27518f-50ce-44ac-9ba4-ccf7f540a79a",
+            "id": "18",
+            "name": "Lab 6 - Exabeam",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13284120121000000",
+               "guid": "d98bdf93-39d1-424e-b53a-f519e02b5703",
+               "id": "59",
+               "name": "Why Microsoft Is Investing in Software Startup Rubrik - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=WRkurjj7f4g"
+            }, {
+               "date_added": "13291364160270944",
+               "guid": "5880b243-eaa5-4374-898c-1dfdf9acd71f",
+               "id": "74",
+               "name": "Rubrik - Student 12",
+               "type": "url",
+               "url": "https://7395c835-5cbd-4303-a236-038260e54751-console.secure.rcf-labs-services-sjc.rubrik.com/guacamole/#/client/ZGVmYXVsdABjAG5vYXV0aA=="
+            } ],
+            "date_added": "13291364027264920",
+            "date_modified": "13291364180971480",
+            "guid": "d6e4512b-ee8d-411b-baad-2c31d5f5f529",
+            "id": "58",
+            "name": "Lab1 - Rubrik",
+            "type": "folder"
+         } ],
+         "date_added": "13291361255503114",
+         "date_modified": "13291364103160052",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13291361255503120",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13291361255503125",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
