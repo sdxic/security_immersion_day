@@ -1,0 +1,173 @@
+{
+   "checksum": "58911e8bfbece7fe001f7d45e765df19",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13284120121000000",
+               "guid": "8925797a-feba-44eb-8107-0b74df1006df",
+               "id": "77",
+               "name": "Why Microsoft Is Investing in Software Startup Rubrik - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=WRkurjj7f4g"
+            }, {
+               "date_added": "13294204398295113",
+               "guid": "92ffcecf-4cb6-4066-a00c-0f9bfd9266cb",
+               "id": "273",
+               "name": "Rurbik 7",
+               "type": "url",
+               "url": "https://3f73bacf-53fe-4278-b017-99b1ac01e589-console.secure.rcf-labs-services-sjc.rubrik.com/guacamole/#/client/ZGVmYXVsdABjAG5vYXV0aA=="
+            } ],
+            "date_added": "13291364304164126",
+            "date_modified": "13294204408286291",
+            "guid": "e1aee742-c808-4555-a223-cf10a3d90ce8",
+            "id": "76",
+            "name": "Lab1 - Rubrik",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13294203611414754",
+               "guid": "7d8fc679-4cea-4ce4-8d5d-3d57d44a8de2",
+               "id": "258",
+               "name": "Cisco.com Login Page",
+               "type": "url",
+               "url": "https://cloudsso.cisco.com/as/authorization.oauth2?response_type=code&scope=openid+profile+email&client_id=dcloud-sso-prod&redirect_uri=https%3A%2F%2Fdcloud2-rtp.cisco.com%2Fevent%2F397617%2Faccess&state=wAOdbuGBcFAFCEaoEWzvl31b2oMTsP1Q"
+            } ],
+            "date_added": "13291364304164780",
+            "date_modified": "13294203672361091",
+            "guid": "cedd019f-4edf-47bc-9066-5f568d82cec1",
+            "id": "79",
+            "name": "Lab2 - Cisco Duo",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13284132900000000",
+               "guid": "84bd6aa9-4866-459c-84a0-a72da7c81534",
+               "id": "81",
+               "name": "Video EDR? EPP? Both?!? See how to explain SentinelOne in just 2 minutes - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=Fzji8wNJEc4"
+            }, {
+               "date_added": "13284132951000000",
+               "guid": "2a6051e0-957d-46ac-8859-0aadf5e1751b",
+               "id": "82",
+               "name": "SentinelOne - Management Console",
+               "type": "url",
+               "url": "https://usea1-300-nfr.sentinelone.net/login"
+            } ],
+            "date_added": "13291364304165118",
+            "date_modified": "0",
+            "guid": "8ed983f3-be79-4a62-a254-5fc26bb7540a",
+            "id": "80",
+            "name": "Lab3 - SentinelOne",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13284119809000000",
+               "guid": "c8c8b948-e567-4226-88d6-c25ece3c7ba0",
+               "id": "84",
+               "name": "Purple Knight Intro with Darren Mar-Elia, VP of Products at Semperis - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=tBuMsxbjHag"
+            }, {
+               "date_added": "13284132844000000",
+               "guid": "029b98b3-3246-4276-8fd3-1ca893041ebe",
+               "id": "85",
+               "name": "Automate Forest Recovery | Semperis Active Directory Forest Recovery (ADFR) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=sHLXRJv5Gfc"
+            } ],
+            "date_added": "13291364304165509",
+            "date_modified": "0",
+            "guid": "6687f18e-f3f8-427c-af0c-56f2eca252e0",
+            "id": "83",
+            "name": "Lab4 - Semperis",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13284132732000000",
+               "guid": "c2497dd8-2c94-4767-9779-a4797868d783",
+               "id": "88",
+               "name": "Video Sirius Lab - Thycotic Ransomware Protection",
+               "type": "url",
+               "url": "https://vimeo.com/657182584/abf0556917"
+            }, {
+               "date_added": "13294204392638637",
+               "guid": "eb35fb49-13b0-4315-b074-cdffa5afadf6",
+               "id": "272",
+               "name": "Hands-On Lab - Thycotic Ransomware Prevention (7) - Skytap",
+               "type": "url",
+               "url": "https://cloud.skytap.com/vms/3054b6fff6513d3f50a2b37532eac6b2/desktops?sort=name&thumbnails=shown&view=html5&fit_to_window=1"
+            } ],
+            "date_added": "13291364304165944",
+            "date_modified": "13294204398295113",
+            "guid": "a3ce875c-4610-41b2-8982-7babcc088e84",
+            "id": "86",
+            "name": "Lab5 - Delinea",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13284132794000000",
+               "guid": "341f1be1-c433-402a-bb33-38d8630fd0d9",
+               "id": "90",
+               "name": "Video Alert Triage enables analysts to quickly and confidently dismiss or escalate security alerts - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=NAnIPhLs9Po"
+            }, {
+               "date_added": "13291366158446332",
+               "guid": "624bf19d-96c8-411e-b130-c207fad03b89",
+               "id": "106",
+               "name": "Exabeam CTF",
+               "type": "url",
+               "url": "https://ctf-0-event.exalabs.io/"
+            } ],
+            "date_added": "13291364304166723",
+            "date_modified": "13291366244969393",
+            "guid": "7020efa3-a276-4a35-b3c0-5f00c7c424ac",
+            "id": "89",
+            "name": "Lab 6 - Exabeam",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13291364506714823",
+               "guid": "7b591e5e-4eaf-4007-8179-48749199df1c",
+               "id": "94",
+               "name": "Tanium (Future Lab)",
+               "type": "url",
+               "url": "https://login.microsoftonline.com/ea0028e4-6b7d-4f48-a15d-2145e9d3e7bd/saml2?SAMLRequest=fZJBT9wwEIXv%2FRWR705iJylZaxO0KkJCAqllgUMvyBtPFkuxnXpsoP319WZZBBeOtr55b%2Fye1%2Bev%0AZsqewaN2tiMsL0kGdnBK231H7u8uaUvO%2B29rlGbis9jE8GRv4U8EDNkGEXxIcz%2BcxWjAb8E%2F6wHu%0Ab6878hTCjKIoUHsdcXBmjgE8DdLqaHKZdPKI9CXpUJ5LI%2F%2B55Lq3Org8wcXiV2g1e8A5yQPJLhKr%0ArQzLoif5ye21zY0evEM3BmcnbWFRAFmWvIWaft%2BdKVqPdUslaxTlrG5gpSo426mjDcmuLjryKPnI%0A6p0Cqtq2oTW0K7riUlHGqpWEsWSykQlFjHBlMT0kdISXnNOyoqy8KxtRM1FXeVW2v0n2cIqUHyJN%0AIVsUxxA7Er0VTqJGYaUBFGEQ283NtUiomL0LbnAT6Y%2BZi8XQZ5fOGxm%2Bnj3caEXHBRVggw5%2FP3l%2F%0APS5PfZL%2BgB1LEW%2BtCJzFe2GPu62z3N%2F8%2FLUuPm7Zvx0%2Ff5T%2BPw%3D%3D&RelayState=ZXlKMWMyVnlVRzl2YkVsa0lqb2lkWE10ZDJWemRDMHlYMkpUYjI0eWNrMVFVU0lzSW5CeWIzWnBaR1Z5VG1GdFpTSTZJbE5wY21sMWN5MU5aUzAwWTJJNU9ETWlMQ0pqYkdsbGJuUkpaQ0k2SWpGMGNqTXdZMnh4YkdNMFpuWm1abk54TVdjeWFXTXhNWEIxSWl3aWNtVmthWEpsWTNSVlVra2lPaUpvZEhSd2N6b3ZMM05wY21sMWMyTnZiWEIxZEdWeUxtTnNiM1ZrTG5SaGJtbDFiUzVqYjIwdmIyRjFkR2d5TDJsa2NISmxjM0J2Ym5ObElpd2ljbVZ6Y0c5dWMyVlVlWEJsSWpvaVkyOWtaU0lzSW5CeWIzWnBaR1Z5Vkhsd1pTSTZJbE5CVFV3aUxDSnpZMjl3WlhNaU9sc2liM0JsYm1sa0lsMHNJbk4wWVhSbElqb2lOR0pOT0VaaE1uQmNYQzl5TTI4eE0ycExPR28zVlRabk0xVkVXRGR6YlRoMFJFVk1jMmxCVnpOTVduaHVNV2hKUkcxV05sbE5hbE14UzJFd2FUSmhXbEZSTW5oRFoxYzJVMVExWWxrd1kxUkhZWE51WEZ3dmJXcFRjRXBwY3psRVZGZGtOVkJLU21GU1NUUTBSbThyUmtKVVdHZHNjamh1Y2tsTFprNUhUemczTVhGR1ZFdFlPWFZyVm1SRVEwTkhXRTlET1RWRVVuZEJVR0ZFVDFScGFHTnZTWFZsWVZ4Y0wwUkZZV0l5VEhsUWJ5dE1WRVZ6ZWt0TGRFNVRRV1JSWW1kWlhGd3ZNRFp3T1dGTE1rMVBjQ0lzSW1OdlpHVkRhR0ZzYkdWdVoyVWlPbTUxYkd3c0ltTnZaR1ZEYUdGc2JHVnVaMlZOWlhSb2IyUWlPbTUxYkd3c0ltNXZibU5sSWpvaU9HMXJaMjR6U25WeFRqazJaV1ZKWWkxR1MzaERZbDlSWDFSc2VGcDRPREZLZEZrM1RtdDZPRWt5TW05V2VFRkJNMEkyYVdKTVNXSkRNa3RDUWs0elNWcFhjVVZJV0hGSlFXSkdOakEzVHpCNVVYTldlak5UVkRCVlkyZHpSMFJNY3pOcExYUldSekJVVm1OT1FXRlBRVTlwVlVoblEwUlhkWFp5ZFRCU1N6Vk9jVTlZZUVoMWRYbDNaMWxUYzNCaGNURlVXSGh3TFhwSWVuRlhjRUZCY25oRlluWm1jbVJ0U2xKUklpd2ljMlZ5ZG1WeVNHOXpkRkJ2Y25RaU9pSnphWEpwZFhOamIyMXdkWFJsY2kxMFlXNXBkVzB1WVhWMGFDNTFjeTEzWlhOMExUSXVZVzFoZW05dVkyOW5ibWwwYnk1amIyMGlMQ0pqY21WaGRHbHZibFJwYldWVFpXTnZibVJ6SWpveE5qUTJPRGt3T1RBekxDSnpaWE56YVc5dUlqcHVkV3hzTENKMWMyVnlRWFIwY21saWRYUmxjeUk2Ym5Wc2JDd2ljM1JoZEdWR2IzSk1hVzVyYVc1blUyVnpjMmx2YmlJNlptRnNjMlY5OkE2L1BzOXZzYm9JSUFGS2JQMW9pNVl4TGFnY3FFU1JyUVFhU0V2elNvUkE9OjM%3D&sso_reload=true"
+            } ],
+            "date_added": "13291364578017536",
+            "date_modified": "13291364693368210",
+            "guid": "ea485b08-5bd3-484c-af06-7346150e980c",
+            "id": "95",
+            "name": "Tanium (Future Lab)",
+            "type": "folder"
+         } ],
+         "date_added": "13291361255503114",
+         "date_modified": "13293688139813419",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13291361255503120",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13291361255503125",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
