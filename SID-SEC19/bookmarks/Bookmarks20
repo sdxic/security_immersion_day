@@ -1,0 +1,167 @@
+{
+   "checksum": "dd352bf41a5f6f103384331f5b832313",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13356702280772687",
+               "date_last_used": "0",
+               "guid": "7b94f500-2f35-4ca8-8385-666be414f4c2",
+               "id": "78",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Rubrik 20",
+               "type": "url",
+               "url": "https://efead719-64a2-42e9-9765-00b4db26a6ad-console.securev2.rcf-labs-services-sjc.rubrik.com/guacamole/#/client/ZGVmYXVsdABjAG5vYXV0aA=="
+            } ],
+            "date_added": "13356699485273289",
+            "date_last_used": "0",
+            "date_modified": "13356702288827437",
+            "guid": "60a4ab05-cb36-4d23-9821-4804f35d688c",
+            "id": "5",
+            "name": "Lab1 (Rubrik)",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13356702264630943",
+               "date_last_used": "0",
+               "guid": "0f803be2-42bc-43f2-88fd-4228760a04f6",
+               "id": "77",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "[Delinea] Course Manager - Learning Console",
+               "type": "url",
+               "url": "https://thycotic.cmlabs.skytap.com/lab_access/event_participant/4646/35f76202fa335e4c23d8114578d7841d86b215c2055d26d4668d42c6b4e691f4/learning_console"
+            } ],
+            "date_added": "13356699627919372",
+            "date_last_used": "0",
+            "date_modified": "13356702280772687",
+            "guid": "af6d1f17-01c7-4eca-9ef7-27abeb9a1232",
+            "id": "6",
+            "name": "Lab2 (Delinea)",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13356700152492690",
+               "date_last_used": "0",
+               "guid": "720817e4-3fba-4708-a7c9-ac6a71b68bef",
+               "id": "13",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "ExtraHop Demo for Reveal(x)",
+               "type": "url",
+               "url": "https://www.extrahop.com/demo/self-guided/"
+            } ],
+            "date_added": "13356699640726004",
+            "date_last_used": "0",
+            "date_modified": "13356700442463411",
+            "guid": "faa40c25-5930-4119-af9c-7e9ebf930ac8",
+            "id": "7",
+            "name": "Lab3 (ExtraHop)",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13356700442463411",
+               "date_last_used": "0",
+               "guid": "1bc48e12-924a-48c2-a64f-a92398f935a2",
+               "id": "14",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Duo Demos",
+               "type": "url",
+               "url": "https://demo.duo.com/?_open=ext"
+            }, {
+               "date_added": "13356700459351741",
+               "date_last_used": "0",
+               "guid": "8d6828db-319c-4e9c-9724-0514750091d7",
+               "id": "15",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Cisco",
+               "type": "url",
+               "url": "https://id.cisco.com/oauth2/default/v1/authorize?response_type=code&scope=openid+profile+email+offline_access&client_id=2fc326b2-f31c-415f-b7e1-bb76e908a79e&redirect_uri=https%3A%2F%2Fdcloud2-sjc.cisco.com%2Fauthenticate&state=rHwkHNFYHjq1Y9QRalFCrH7z2itiIBYm"
+            } ],
+            "date_added": "13356699660305185",
+            "date_last_used": "0",
+            "date_modified": "13356700477452938",
+            "guid": "34b90a39-0669-4513-ad86-a690d8fc2637",
+            "id": "8",
+            "name": "Lab4 (Cisco)",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13356700491290739",
+               "date_last_used": "0",
+               "guid": "7d1c9161-c0d2-411c-a0ef-417e5c8fb6fa",
+               "id": "17",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Exabeam CTF",
+               "type": "url",
+               "url": "https://ctf-0-event.exalabs.io/"
+            } ],
+            "date_added": "13356699678503270",
+            "date_last_used": "0",
+            "date_modified": "13356700593704889",
+            "guid": "c5526d24-e2fa-4910-9999-a53a25b61c18",
+            "id": "9",
+            "name": "Lab5 (ExaBeam)",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13356700477452938",
+               "date_last_used": "0",
+               "guid": "459f6693-28cb-455e-98d2-58b04727ef44",
+               "id": "16",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Signin",
+               "type": "url",
+               "url": "https://cdw-lab1-tanium.auth.us-west-2.amazoncognito.com/login?client_id=5asrf4tqi94h0fanqof66ir0sg&redirect_uri=https%3A%2F%2Fcdw-lab1.cloud.tanium.com%2Foauth2%2Fidpresponse&response_type=code&scope=openid&state=CPCAhvX6Cf5upcdsDreXGigMV2blg5qTxoBXl2g9jvr1SqQuSf78wBH5mUAErJjX7XKaNQ74Uznu3Ifu2MpZbuR%2B1ODcSJG9Yilw8uUpBcZWFeL8R%2BwvUgC1APfh54YDbWu9CeJtUlUgac%2FgzBW8%2BJvNT5AA%2BtnrjSbjisnnZT3RqnV94DiGwpt7pgbbQLUPsFWDsuhcdOxT8xIfGeqY5JlslnV7uLaQ48fG1AXFk1tVYEkL8a0zeZeYgOFYJgWV6ycYU2sRtHszTFKaEg%3D%3D"
+            } ],
+            "date_added": "13356699694990945",
+            "date_last_used": "0",
+            "date_modified": "13356700491290739",
+            "guid": "dcb6f292-0bf9-4e5b-b4c3-85c1df9fea17",
+            "id": "10",
+            "name": "Lab6 (Tanium)",
+            "type": "folder"
+         } ],
+         "date_added": "13356699465630422",
+         "date_last_used": "0",
+         "date_modified": "13356699694991718",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13356699465630426",
+         "date_last_used": "0",
+         "date_modified": "13356699813788098",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13356699465630428",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
