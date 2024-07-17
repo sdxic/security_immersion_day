@@ -1,0 +1,58 @@
+{
+   "checksum": "b0564de9613c4ed6ec7a6dcf760d8bd8",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13334530013769273",
+         "date_last_used": "0",
+         "date_modified": "13334530106776503",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13345531366035169",
+            "date_last_used": "0",
+            "guid": "8b0321dc-b51a-47bb-843d-58fecebf5133",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Dashboard | Mangools",
+            "type": "url",
+            "url": "https://mangools.com/apps?trial_activated=1"
+         }, {
+            "date_added": "13345536868923939",
+            "date_last_used": "0",
+            "guid": "b2f26c90-91af-4131-9193-dab7b9436fda",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Asian Slave Club – —– An international Submissive and BDSM dating service",
+            "type": "url",
+            "url": "https://asianslave.biz/e/"
+         } ],
+         "date_added": "13334530013769275",
+         "date_last_used": "0",
+         "date_modified": "13345536868923939",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13334530013769277",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
