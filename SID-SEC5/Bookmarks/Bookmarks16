@@ -1,0 +1,136 @@
+{
+   "checksum": "c2fdc702bad8da63d1edf0c6b630645a",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13365669669776429",
+               "date_last_used": "0",
+               "guid": "51dc524d-cf33-4a35-a0d5-2f7d5506b9d2",
+               "id": "129",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "10.0.1.100",
+               "type": "url",
+               "url": "https://b6a52cc5-0ca1-40cc-9a47-30e9238a1cfa-console.securev2.rcf-labs-services-sjc.rubrik.com/guacamole/#/client/ZGVmYXVsdABjAG5vYXV0aA=="
+            } ],
+            "date_added": "13365661441077515",
+            "date_last_used": "0",
+            "date_modified": "13365669672179166",
+            "guid": "5096f8b2-abca-4c18-8d14-c29ca75fcaa0",
+            "id": "5",
+            "name": "1 rubrick",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13365669662026104",
+               "date_last_used": "0",
+               "guid": "01328246-9ee1-4982-b46c-a10ac58b39f0",
+               "id": "128",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "[Delinea] Course Manager - Learning Console",
+               "type": "url",
+               "url": "https://thycotic.cmlabs.skytap.com/lab_access/event_participant/5078/1ce531c009dfc5679a35d91f62e4ab93ab61e1fba41460e039bc9c572989a610/learning_console"
+            } ],
+            "date_added": "13365661486626695",
+            "date_last_used": "0",
+            "date_modified": "13365669669776429",
+            "guid": "ff5b0b88-b665-4487-90ba-dc144effdc1b",
+            "id": "6",
+            "name": "2 Delinea",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13365661731627945",
+               "date_last_used": "0",
+               "guid": "81c5cbc0-e024-456f-879b-05397fe74dab",
+               "id": "12",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Log In to Cisco",
+               "type": "url",
+               "url": "https://id.cisco.com/oauth2/default/v1/authorize?response_type=code&scope=openid+profile+email+offline_access+cci_coimemberOf&client_id=2fc326b2-f31c-415f-b7e1-bb76e908a79e&redirect_uri=https%3A%2F%2Fdcloud2-rtp.cisco.com%2Fauthenticate&state=LhXXzu0Q9Bcz5eFGJSnOytpvZIfDIlMk"
+            } ],
+            "date_added": "13365661556648040",
+            "date_last_used": "0",
+            "date_modified": "13365661770447398",
+            "guid": "72299f96-979b-48f2-92be-d4c674efd673",
+            "id": "7",
+            "name": "3 Cisco",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13365661658034598",
+               "date_last_used": "0",
+               "guid": "abe0719e-899b-480e-bfa1-e9bc95491351",
+               "id": "10",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "CloudShare | Login",
+               "type": "url",
+               "url": "https://use.cloudshare.com/Login.aspx"
+            } ],
+            "date_added": "13365661581442464",
+            "date_last_used": "0",
+            "date_modified": "13365661688605400",
+            "guid": "7be27e5e-e1e2-46b6-bcdd-cbb1dc93f91c",
+            "id": "8",
+            "name": "4 Semperis",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13365661688605400",
+               "date_last_used": "0",
+               "guid": "da24ead4-c591-4788-a2be-c58bd648500e",
+               "id": "11",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "RevealX Demo | ExtraHop",
+               "type": "url",
+               "url": "https://www.extrahop.com/demo"
+            } ],
+            "date_added": "13365661603027754",
+            "date_last_used": "0",
+            "date_modified": "13365661731627945",
+            "guid": "d32eed2d-88a1-4164-9e34-1db6bb5490f4",
+            "id": "9",
+            "name": "5 Extrahop",
+            "type": "folder"
+         } ],
+         "date_added": "13365661019460486",
+         "date_last_used": "0",
+         "date_modified": "13365661603028088",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13365661019460491",
+         "date_last_used": "0",
+         "date_modified": "13365661658034598",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13365661019460494",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
