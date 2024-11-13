@@ -1,0 +1,136 @@
+{
+   "checksum": "e25619c4d6654222790322f0bdc3734b",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13375950207364453",
+               "date_last_used": "0",
+               "guid": "91ee43c4-aa84-4621-aa2b-08505488b202",
+               "id": "199",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "10.0.1.100 - 21",
+               "type": "url",
+               "url": "https://ad088b0d-3ffa-439f-a7e0-8f0ab488541a-console.rcf-labs-oa.rubrik.com/guacamole/#/client/ZGVmYXVsdABjAG5vYXV0aA=="
+            } ],
+            "date_added": "13365661441077515",
+            "date_last_used": "0",
+            "date_modified": "13375950218427867",
+            "guid": "5096f8b2-abca-4c18-8d14-c29ca75fcaa0",
+            "id": "5",
+            "name": "1 rubrick",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13375947946466032",
+               "date_last_used": "13375947954761105",
+               "guid": "1b887d20-9576-4250-9120-173b485579fc",
+               "id": "154",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Log In to Cisco",
+               "type": "url",
+               "url": "https://id.cisco.com/oauth2/default/v1/authorize?response_type=code&scope=openid+profile+email+offline_access+cci_coimemberOf&client_id=2fc326b2-f31c-415f-b7e1-bb76e908a79e&redirect_uri=https%3A%2F%2Fdcloud2-rtp.cisco.com%2Fauthenticate&state=LhXXzu0Q9Bcz5eFGJSnOytpvZIfDIlMk"
+            } ],
+            "date_added": "13365661486626695",
+            "date_last_used": "0",
+            "date_modified": "13375948065613675",
+            "guid": "ff5b0b88-b665-4487-90ba-dc144effdc1b",
+            "id": "6",
+            "name": "2 Cisco",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13375950218427867",
+               "date_last_used": "0",
+               "guid": "f2fb920f-bb1e-49ed-8110-fa6360049093",
+               "id": "200",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Privilege Manager Partner Training - Ransomware Prevention Course (Student5469) - Skytap",
+               "type": "url",
+               "url": "https://cloud.skytap.com/vms/7dd38da80fcebbfc9b5a216a84adb8b8/desktops?sort=name&thumbnails=shown&view=html5&fit_to_window=1"
+            } ],
+            "date_added": "13365661556648040",
+            "date_last_used": "0",
+            "date_modified": "13375950221437228",
+            "guid": "72299f96-979b-48f2-92be-d4c674efd673",
+            "id": "7",
+            "name": "3 Delinea",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13365661658034598",
+               "date_last_used": "0",
+               "guid": "abe0719e-899b-480e-bfa1-e9bc95491351",
+               "id": "10",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "CloudShare | Login",
+               "type": "url",
+               "url": "https://use.cloudshare.com/Login.aspx"
+            } ],
+            "date_added": "13365661581442464",
+            "date_last_used": "0",
+            "date_modified": "13365661688605400",
+            "guid": "7be27e5e-e1e2-46b6-bcdd-cbb1dc93f91c",
+            "id": "8",
+            "name": "4 Semperis",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13365661688605400",
+               "date_last_used": "0",
+               "guid": "da24ead4-c591-4788-a2be-c58bd648500e",
+               "id": "11",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "RevealX Demo | ExtraHop",
+               "type": "url",
+               "url": "https://www.extrahop.com/demo"
+            } ],
+            "date_added": "13365661603027754",
+            "date_last_used": "0",
+            "date_modified": "13365661731627945",
+            "guid": "d32eed2d-88a1-4164-9e34-1db6bb5490f4",
+            "id": "9",
+            "name": "5 Extrahop",
+            "type": "folder"
+         } ],
+         "date_added": "13365661019460486",
+         "date_last_used": "0",
+         "date_modified": "13365661603028088",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13365661019460491",
+         "date_last_used": "0",
+         "date_modified": "13365661658034598",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13365661019460494",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
