@@ -1,0 +1,145 @@
+{
+   "checksum": "238c7d720eb22bf029b42577af697b2b",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13404972902949654",
+               "date_last_used": "0",
+               "guid": "d5b56d7b-7cfb-4870-a120-e9fce530c652",
+               "id": "253",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "11 Rubrik",
+               "type": "url",
+               "url": "https://5ecec770-cc58-41ff-bcd4-8c76e773ce5c-console.rcf-labs-sis.rubrik.com/guacamole/#/client/ZGVmYXVsdABjAG5vYXV0aA=="
+            } ],
+            "date_added": "13365661441077515",
+            "date_last_used": "0",
+            "date_modified": "13404972911960857",
+            "guid": "5096f8b2-abca-4c18-8d14-c29ca75fcaa0",
+            "id": "5",
+            "name": "1 rubrick",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13383200244246792",
+            "date_last_used": "0",
+            "date_modified": "13383200244246792",
+            "guid": "402b3fda-151f-41fe-8d58-517c45fef425",
+            "id": "211",
+            "name": "2 Tanium",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13383199983894474",
+               "date_last_used": "0",
+               "guid": "36685a97-e88d-4596-ac93-495f0f8dcc97",
+               "id": "208",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Log In to Cisco",
+               "type": "url",
+               "url": "https://id.cisco.com/oauth2/default/v1/authorize?response_type=code&scope=openid+profile+email+offline_access+cci_coimemberOf&client_id=2fc326b2-f31c-415f-b7e1-bb76e908a79e&redirect_uri=https%3A%2F%2Fdcloud2.cisco.com%2Fauthenticate&state=IOJsjscOqvGAFCpfpg5eIHKvKgtomqKx"
+            } ],
+            "date_added": "13365661486626695",
+            "date_last_used": "0",
+            "date_modified": "13383200229282581",
+            "guid": "ff5b0b88-b665-4487-90ba-dc144effdc1b",
+            "id": "6",
+            "name": "3 Cisco",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13404972911960857",
+               "date_last_used": "0",
+               "guid": "15cbe743-6a65-4625-bb41-7b1e9e079686",
+               "id": "254",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "11 Delinea Partner Training - Privilege Manager Ransomware Prevention (Student7038) - Skytap",
+               "type": "url",
+               "url": "https://cloud.skytap.com/vms/1c4d1b97b86755af70605a35e9293102/desktops?sort=name&thumbnails=shown&view=html5&fit_to_window=1"
+            } ],
+            "date_added": "13365661556648040",
+            "date_last_used": "0",
+            "date_modified": "13404972918153933",
+            "guid": "72299f96-979b-48f2-92be-d4c674efd673",
+            "id": "7",
+            "name": "4 Delinea",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13365661658034598",
+               "date_last_used": "0",
+               "guid": "abe0719e-899b-480e-bfa1-e9bc95491351",
+               "id": "10",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "CloudShare | Login",
+               "type": "url",
+               "url": "https://use.cloudshare.com/Login.aspx"
+            } ],
+            "date_added": "13365661581442464",
+            "date_last_used": "0",
+            "date_modified": "13365661688605400",
+            "guid": "7be27e5e-e1e2-46b6-bcdd-cbb1dc93f91c",
+            "id": "8",
+            "name": "5 Semperis",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13365661688605400",
+               "date_last_used": "0",
+               "guid": "da24ead4-c591-4788-a2be-c58bd648500e",
+               "id": "11",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "RevealX Demo | ExtraHop",
+               "type": "url",
+               "url": "https://www.extrahop.com/demo"
+            } ],
+            "date_added": "13365661603027754",
+            "date_last_used": "0",
+            "date_modified": "13365661731627945",
+            "guid": "d32eed2d-88a1-4164-9e34-1db6bb5490f4",
+            "id": "9",
+            "name": "6 Extrahop",
+            "type": "folder"
+         } ],
+         "date_added": "13365661019460486",
+         "date_last_used": "0",
+         "date_modified": "13383200406867717",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13365661019460491",
+         "date_last_used": "0",
+         "date_modified": "13365661658034598",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13365661019460494",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
