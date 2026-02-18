@@ -1,0 +1,187 @@
+{
+   "checksum": "949241582691804b6520a0ae4013810d",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13404973957091924",
+               "date_last_used": "13409103118719105",
+               "guid": "648ea29c-b3b8-4cfa-80ee-10d2604bae06",
+               "id": "278",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "25 Rubrik",
+               "type": "url",
+               "url": "https://957107db-9d71-4571-ac0f-2cfb3850c924-console.rcf-labs-sis.rubrik.com/guacamole/#/client/ZGVmYXVsdABjAG5vYXV0aA=="
+            }, {
+               "date_added": "13409103085151009",
+               "date_last_used": "0",
+               "guid": "df6f40cf-70c9-4104-96d9-2ef1d25a914c",
+               "id": "280",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "What's New",
+               "type": "url",
+               "url": "chrome://whats-new/"
+            } ],
+            "date_added": "13365661441077515",
+            "date_last_used": "0",
+            "date_modified": "13409103085151009",
+            "guid": "5096f8b2-abca-4c18-8d14-c29ca75fcaa0",
+            "id": "5",
+            "name": "1 rubrick",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13383200244246792",
+            "date_last_used": "0",
+            "date_modified": "13383200244246792",
+            "guid": "402b3fda-151f-41fe-8d58-517c45fef425",
+            "id": "211",
+            "name": "2 Tanium",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13383199983894474",
+               "date_last_used": "0",
+               "guid": "36685a97-e88d-4596-ac93-495f0f8dcc97",
+               "id": "208",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Log In to Cisco",
+               "type": "url",
+               "url": "https://id.cisco.com/oauth2/default/v1/authorize?response_type=code&scope=openid+profile+email+offline_access+cci_coimemberOf&client_id=2fc326b2-f31c-415f-b7e1-bb76e908a79e&redirect_uri=https%3A%2F%2Fdcloud2.cisco.com%2Fauthenticate&state=IOJsjscOqvGAFCpfpg5eIHKvKgtomqKx"
+            } ],
+            "date_added": "13365661486626695",
+            "date_last_used": "0",
+            "date_modified": "13383200229282581",
+            "guid": "ff5b0b88-b665-4487-90ba-dc144effdc1b",
+            "id": "6",
+            "name": "3 Cisco",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13415867875462932",
+               "date_last_used": "0",
+               "guid": "ddf57321-aaf0-4d80-b1bb-bbec34a5e8fa",
+               "id": "289",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Delinea Partner Training - Privilege Manager Ransomware Prevention (Student7604) - Kyndryl Cloud Uplift",
+               "type": "url",
+               "url": "https://cloud.skytap.com/vms/15dc51fa857e239333c146500b89c8ae/desktops?sort=name&thumbnails=shown&view=html5&fit_to_window=1"
+            } ],
+            "date_added": "13365661556648040",
+            "date_last_used": "0",
+            "date_modified": "13415867875462932",
+            "guid": "72299f96-979b-48f2-92be-d4c674efd673",
+            "id": "7",
+            "name": "4 Delinea",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13365661658034598",
+               "date_last_used": "13415867114044754",
+               "guid": "abe0719e-899b-480e-bfa1-e9bc95491351",
+               "id": "10",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "CloudShare | Login",
+               "type": "url",
+               "url": "https://use.cloudshare.com/Login.aspx"
+            } ],
+            "date_added": "13365661581442464",
+            "date_last_used": "0",
+            "date_modified": "13365661688605400",
+            "guid": "7be27e5e-e1e2-46b6-bcdd-cbb1dc93f91c",
+            "id": "8",
+            "name": "5 Semperis",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13365661688605400",
+               "date_last_used": "0",
+               "guid": "da24ead4-c591-4788-a2be-c58bd648500e",
+               "id": "11",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "RevealX Demo | ExtraHop",
+               "type": "url",
+               "url": "https://www.extrahop.com/demo"
+            } ],
+            "date_added": "13365661603027754",
+            "date_last_used": "0",
+            "date_modified": "13365661731627945",
+            "guid": "d32eed2d-88a1-4164-9e34-1db6bb5490f4",
+            "id": "9",
+            "name": "6 Extrahop",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13415866843441568",
+               "date_last_used": "0",
+               "guid": "f7a48c9f-5f18-4a64-b4ed-e91857038471",
+               "id": "283",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Exabeam CTF (Self registration)",
+               "type": "url",
+               "url": "https://911.ctf-events.io/"
+            }, {
+               "date_added": "13415866881209906",
+               "date_last_used": "13415866896438898",
+               "guid": "c6f988ad-6e0d-4cd5-99de-faf5a7d8e2f5",
+               "id": "284",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Log in to Security Operations Platform",
+               "type": "url",
+               "url": "https://auth.use1.exabeam.cloud/login?state=hKFo2SB6bDd5YmhWX3pVMGNwZXFSUVEzaV90T2lOUEhrWTJreKFupWxvZ2luo3RpZNkgc0hrNThEc1JKdjhUVVpmUi1sbnRCdHI4dmlXVl9MS06jY2lk2SAydEFQYzZHMFlMbk1VOENDSWJLbmpEM05UM0hJVVFHTA&client=2tAPc6G0YLnMU8CCIbKnjD3NT3HIUQGL&protocol=oauth2&audience=https%3A%2F%2Fapi.use1.exabeam.cloud&connection=&redirect_uri=https%3A%2F%2Fpl4tdir.use1.exabeam.cloud%2Fcallback&response_type=code&scope=openid%20profile%20offline_access"
+            } ],
+            "date_added": "13415866828526443",
+            "date_last_used": "0",
+            "date_modified": "13415867332458668",
+            "guid": "a376c7e1-c7a3-48fe-bf9e-092e95d7f02d",
+            "id": "282",
+            "name": "7. ExaBeam",
+            "type": "folder"
+         } ],
+         "date_added": "13365661019460486",
+         "date_last_used": "0",
+         "date_modified": "13415866843441568",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13365661019460491",
+         "date_last_used": "0",
+         "date_modified": "13365661658034598",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13365661019460494",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
